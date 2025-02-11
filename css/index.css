@@ -1,3 +1,26 @@
+/* <body>
+        <!-- Change page background color to a softer white -->
+        <h1>Odin Recipes</h1>
+        <!-- Center align h1 -->
+        <!-- Change header background color to white -->
+        <!-- Change font family to Verdana -->
+        <!-- Increase font size -->
+        <!--  -->
+        <ul>
+            <li><a href="./recipes/pancake-recipe.html">Pancake Recipe</a></li>
+            <li><a href="./recipes/bulgogi-recipe.html">Bulgogi Recipe</a></li>
+            <li><a href="./recipes/vanilla-milkshake-recipe.html">Vanilla Milkshake Recipe</a></li>
+        </ul>
+        <!-- Make changes below for links to pancake, bulgogi, and vanilla milkshake: -->
+        <!-- Center align links-->
+        <!-- Change text color to white -->
+        <!-- Change text background color to black -->
+        <!-- Change font family to Verdan -->
+        <!-- Increase font size  -->
+    </body> */
 body {
     background-color: rgb(236, 235, 235);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: medium;
 }
