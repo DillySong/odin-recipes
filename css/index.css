@@ -38,5 +38,16 @@ body {
     font-size: medium;
 }
 
+.content-container {
+    width: 600px;
+    height: auto;
+    background-color: rgb(237, 229, 229);
+    padding: 35px;
+    border: 5px solid black;
+    margin: 30px auto;
+}
 
-
+.content,
+p {
+    margin-bottom: 10px;
+}
