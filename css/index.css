@@ -64,6 +64,14 @@ p {
     text-align: center;
     line-height: 25px;
     margin: 5px;
+}
 
+#update-text {
+    text-align: left;
+    opacity: 0.5;
+}
+
+footer p{
+    display: inline;
 }
 
