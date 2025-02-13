@@ -7,5 +7,3 @@ The following concepts showcased are:
 - Basic syntax
 - Images and Links
 - Working with a distributed repository
-
-Rename test
