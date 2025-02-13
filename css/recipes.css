@@ -1,6 +1,6 @@
 /* <!-- Checklist Iteration #1 [Feb 13, 2025] -->
 <!--
-- Is there a footer about the author and page?
+- Is there a footer about the author and page? y
 - Are the list tags for the navigation links removed for all pages?
 - Is there an anchor tag at the bottom for the user to jump back to the top?
 
@@ -32,10 +32,6 @@ body {
     color: rgb(15, 15, 15);
     font-size: medium;
     background-color: rgb(236, 235, 235);
-}
-
-h1, .navigation{
-    text-align: center;
 }
 
 img {
