@@ -1,3 +1,32 @@
+/* <!-- Checklist Iteration #1 [Feb 13, 2025] -->
+<!--
+- Is there a footer about the author and page?
+- Are the list tags for the navigation links removed for all pages?
+- Is there an anchor tag at the bottom for the user to jump back to the top?
+
+- Is the all recipe content contained in a box?
+- Is the header, navigation and footer links outside of the box?
+- Is the image, recipe content and footer contained inside the box? 
+- Does the box have a border?
+- Does the box have a background?
+
+- Is there margin spacing from the top? 
+- Is there margin-bottom spacing between each element? 
+- Is the content in the box properly vertically aligned?
+- Do all box box properties and values follow the same format as the homepage?
+
+
+- Are the navigation links buttons?  
+- Do the buttons have a border? 
+- Is the button content different from the default purple and underlined text? 
+- Are the links contained in buttons? 
+- Do the links within the button have adequate padding? 
+- Do the button properties follow the same format as the Homepage
+
+- Is the red outlining gone? 
+
+- Can the page support different screen sizes? --> */
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(15, 15, 15);
