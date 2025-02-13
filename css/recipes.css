@@ -78,14 +78,13 @@ li {
     width: 0 auto;
 }
 
-/* img,
-.description-container {
-    display: inline-block;
-} */
-
 .description-container {
     vertical-align: top;
     width: 0 auto;
     text-align: left;
     margin-right: 150px;
+}
+
+.header-content {
+    margin-top: 50px;
 }
